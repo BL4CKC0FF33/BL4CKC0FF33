@@ -2,10 +2,9 @@
 
 💬 hi there...
 
-💬 i am BL4CKC0FF33, nice to meet you.
+💬 nice to meet you.
 
-💬 feel free to contact me via [twitter](https://twitter.com/Bl4CKC0ff33001)
-
+💬 check out my portfolio <a href="https://github.com/BL4CKC0FF33/BL4CKC0FF33/blob/main/portfolio.md">here</a>.
 
 
 <!--
