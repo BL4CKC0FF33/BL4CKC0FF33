@@ -4,7 +4,6 @@
 
 💬 nice to meet you.
 
-💬 check out my portfolio <a href="https://github.com/BL4CKC0FF33/BL4CKC0FF33/blob/main/portfolio.md">here</a>.
 
 
 <!--
